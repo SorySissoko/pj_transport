@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>je suis beau</title>
 </head>
 <body>
 	<table>
