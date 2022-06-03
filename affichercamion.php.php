@@ -26,6 +26,7 @@
 				<td><a href="ajouter.php?id=<?=$donnees["id"];?>">Ajouter</a></td>
 				<td><a href="supprimer.php?id=<?= $donnees['id'] ?>">Supprimer</a></td>
 				<td><a href="modifier.php?id=<?= $donnees['id'] ?>">Modifier</a></td>
+				<?php echo "labati eestttt"; ?>
 			</tr>
 		</tbody>
 		<?php }  ?>
